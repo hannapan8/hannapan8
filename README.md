@@ -1,6 +1,6 @@
 # Hi, I'm Hanna 🌹
 
-🎓 University of Washington: **Informatics** & **Applied & Computational Mathematical Sciences** (Data Science & Statistics)
+🎓 University of Washington: **Informatics** & **Applied & Computational Mathematical Sciences** (Data Science & Statistics)  
 🎨 Passionate about using creativity to meet functionality  
 💡 Interests: **Product Management**, **Frontend & Full-Stack Engineering**, **UI/UX Design**, **Software Engineering**
 

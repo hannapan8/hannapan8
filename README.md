@@ -54,7 +54,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hannapan) 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/hannapan8)
-📧 Email: [hzpan8@uw.edu](mailto:hzpan8@uw.edu)
+📧[hzpan8@uw.edu](mailto:hzpan8@uw.edu)
 
 <!--
 **hannapan8/hannapan8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

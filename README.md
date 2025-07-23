@@ -37,8 +37,9 @@
 - Realtime data with Firebase integration
 - Iterative development combining frontend + backend skills
 
-📊 **Data Analysis Project in Python**
+📊 **Diabetes Analysis Project in Python**
 - Data wrangling, exploration, and visualization using real-world datasets
+- Machine learning modeling to predict explainable diabetes risk factors
 
 ---
 

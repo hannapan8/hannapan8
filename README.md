@@ -28,7 +28,7 @@
 
 ---
 
-## 🚧 Currently Building
+## 🚧 Recently Built
 
 🧩 **Full-Featured Web App**
 - Semantic, responsive layouts using HTML, CSS, and media queries
